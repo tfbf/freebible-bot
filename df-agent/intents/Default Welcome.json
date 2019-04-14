@@ -1,0 +1,43 @@
+{
+  "id": "e69aecb2-ce1f-4962-83a2-1acdbf131eef",
+  "name": "Default Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi there. I\u0027m a bot and I can assist you in finding Bible and resources in different languages."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "you can type a reference followed by a language name (or language code), type of resource you need (such as commentaries, key words etc)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

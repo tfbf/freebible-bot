@@ -1,0 +1,39 @@
+{
+  "id": "23e9e8ce-5542-407f-b6c6-92c520cc72ac",
+  "parentId": "233002f1-7d46-40b7-867d-d285f46741f2",
+  "rootParentId": "e69aecb2-ce1f-4962-83a2-1acdbf131eef",
+  "name": "Default Welcome - Say Bye",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-custom-followup",
+    "DefaultWelcome-GetReference-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcome-GetReference-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hope you enjoyed my service. Thank you for trying me."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Bye!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

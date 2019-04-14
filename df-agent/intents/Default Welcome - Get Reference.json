@@ -1,0 +1,82 @@
+{
+  "id": "233002f1-7d46-40b7-867d-d285f46741f2",
+  "parentId": "e69aecb2-ce1f-4962-83a2-1acdbf131eef",
+  "rootParentId": "e69aecb2-ce1f-4962-83a2-1acdbf131eef",
+  "name": "Default Welcome - Get Reference",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "DefaultWelcome-GetReference-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1b3d7bde-e3ff-468b-8986-8addb8684a42",
+          "required": true,
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        },
+        {
+          "id": "9da7db95-107e-491b-b354-02dfa1778772",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "chapter",
+          "value": "$chapter",
+          "isList": false
+        },
+        {
+          "id": "be3bae56-8c0c-4e17-9afd-b8c1c3bda7b2",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "verse",
+          "value": "$verse",
+          "isList": false
+        },
+        {
+          "id": "edc9088a-6001-4b0c-8b0f-10ed05e1ccc0",
+          "required": true,
+          "dataType": "@version",
+          "name": "version",
+          "value": "$version",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can do that. Here\u0027s a link to $book $chapter:$verse"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "https://www.biblegateway.com/passage/?search\u003d$book+$chapter%3A$verse\u0026version\u003d$version"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

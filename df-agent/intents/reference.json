@@ -1,0 +1,65 @@
+{
+  "id": "9c7daa87-ef96-4807-8060-d8bf6a9686d1",
+  "name": "reference",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf9ed04d-7c80-4fdd-94c9-1bb63eb02d26",
+          "required": false,
+          "dataType": "@book",
+          "name": "book",
+          "value": "$book",
+          "isList": false
+        },
+        {
+          "id": "7fcbfd72-3732-42f5-bb1e-96a7487ce66e",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "chapter",
+          "value": "$chapter",
+          "isList": false
+        },
+        {
+          "id": "9a14f6ec-8c24-4917-874b-e24e1898319f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "verse",
+          "value": "$verse",
+          "isList": false
+        },
+        {
+          "id": "ae974a42-abc5-476a-8e8d-135cfd0347a4",
+          "required": false,
+          "dataType": "@version",
+          "name": "version",
+          "value": "$version",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is $book $chapter:$verse"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "https://www.biblegateway.com/passage/?search\u003d$book+$chapter%3A$verse\u0026version\u003d$version"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

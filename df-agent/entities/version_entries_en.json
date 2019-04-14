@@ -1,0 +1,64 @@
+[
+  {
+    "value": "esv",
+    "synonyms": [
+      "esv",
+      "ESV",
+      "English Standard Version"
+    ]
+  },
+  {
+    "value": "kjv",
+    "synonyms": [
+      "kjv",
+      "KJV",
+      "king james version",
+      "King James Version"
+    ]
+  },
+  {
+    "value": "nlt",
+    "synonyms": [
+      "nlt",
+      "NLT",
+      "New Living",
+      "New Living Translation"
+    ]
+  },
+  {
+    "value": "niv",
+    "synonyms": [
+      "niv",
+      "NIV",
+      "New International Version",
+      "new international version"
+    ]
+  },
+  {
+    "value": "erv",
+    "synonyms": [
+      "erv",
+      "ERV"
+    ]
+  },
+  {
+    "value": "erv-ur",
+    "synonyms": [
+      "erv-ur",
+      "ERV-UR",
+      "urdu",
+      "Urdu",
+      "URDU"
+    ]
+  },
+  {
+    "value": "jlb",
+    "synonyms": [
+      "jlb",
+      "JLB",
+      "Japanese",
+      "japanese",
+      "Japanese Living Bible"
+    ]
+  }
+]

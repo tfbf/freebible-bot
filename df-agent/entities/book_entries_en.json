@@ -1,0 +1,523 @@
+[
+  {
+    "value": "Genesis",
+    "synonyms": [
+      "Gen",
+      "Genesis"
+    ]
+  },
+  {
+    "value": "Exodus",
+    "synonyms": [
+      "Exod",
+      "Ex",
+      "Exo",
+      "Exodus"
+    ]
+  },
+  {
+    "value": "Leviticus",
+    "synonyms": [
+      "Lev",
+      "Leviticus"
+    ]
+  },
+  {
+    "value": "Numbers",
+    "synonyms": [
+      "Num",
+      "Numbers"
+    ]
+  },
+  {
+    "value": "Deuteronomy",
+    "synonyms": [
+      "Deut",
+      "Deuteronomy"
+    ]
+  },
+  {
+    "value": "Joshua",
+    "synonyms": [
+      "Josh",
+      "Joshua"
+    ]
+  },
+  {
+    "value": "Judges",
+    "synonyms": [
+      "Judg",
+      "Judges"
+    ]
+  },
+  {
+    "value": "Ruth",
+    "synonyms": [
+      "Ruth"
+    ]
+  },
+  {
+    "value": "1 Samuel",
+    "synonyms": [
+      "1 Sam",
+      "1st Sam",
+      "1st Samuel",
+      "1 Samuel"
+    ]
+  },
+  {
+    "value": "2 Samuel",
+    "synonyms": [
+      "2 Sam",
+      "2nd Sam",
+      "2nd Samuel",
+      "2 Samuel"
+    ]
+  },
+  {
+    "value": "1 Kings",
+    "synonyms": [
+      "1 Kgs",
+      "1st Kgs",
+      "1st Kings",
+      "1 Kings"
+    ]
+  },
+  {
+    "value": "2 Kings",
+    "synonyms": [
+      "2 Kgs",
+      "2nd Kgs",
+      "2nd Kings",
+      "2 Kings"
+    ]
+  },
+  {
+    "value": "1 Chronicles",
+    "synonyms": [
+      "1 Chr",
+      "1st Chr",
+      "1st Chronicles",
+      "1 Chronicles"
+    ]
+  },
+  {
+    "value": "2 Chronicles",
+    "synonyms": [
+      "2 Chr",
+      "2nd Chr",
+      "2nd Chronicles",
+      "2 Chronicles"
+    ]
+  },
+  {
+    "value": "Ezra",
+    "synonyms": [
+      "Ezra",
+      "Ezra"
+    ]
+  },
+  {
+    "value": "Nehemiah",
+    "synonyms": [
+      "Neh",
+      "Nehemiah"
+    ]
+  },
+  {
+    "value": "Esther",
+    "synonyms": [
+      "Esth",
+      "Est",
+      "Esther"
+    ]
+  },
+  {
+    "value": "Job",
+    "synonyms": [
+      "Job"
+    ]
+  },
+  {
+    "value": "Psalms",
+    "synonyms": [
+      "Ps",
+      "Psalm",
+      "Psalms"
+    ]
+  },
+  {
+    "value": "Proverbs",
+    "synonyms": [
+      "Prov",
+      "Pro",
+      "Proverbs"
+    ]
+  },
+  {
+    "value": "Ecclesiastes",
+    "synonyms": [
+      "Eccl",
+      "Ecc",
+      "Ecclesiastes"
+    ]
+  },
+  {
+    "value": "Song of Solomon",
+    "synonyms": [
+      "Song",
+      "Song of Songs",
+      "Solomon",
+      "Song of Solomon"
+    ]
+  },
+  {
+    "value": "Isaiah",
+    "synonyms": [
+      "Isa",
+      "Isaiah"
+    ]
+  },
+  {
+    "value": "Jeremiah",
+    "synonyms": [
+      "Jer",
+      "Jeremiah"
+    ]
+  },
+  {
+    "value": "Lamentations",
+    "synonyms": [
+      "Lam",
+      "Lamentations"
+    ]
+  },
+  {
+    "value": "Ezekiel",
+    "synonyms": [
+      "Ezek",
+      "Ezekiel"
+    ]
+  },
+  {
+    "value": "Daniel",
+    "synonyms": [
+      "Dan",
+      "Daniel"
+    ]
+  },
+  {
+    "value": "Hosea",
+    "synonyms": [
+      "Hos",
+      "Hosea"
+    ]
+  },
+  {
+    "value": "Joel",
+    "synonyms": [
+      "Joel"
+    ]
+  },
+  {
+    "value": "Amos",
+    "synonyms": [
+      "Amos"
+    ]
+  },
+  {
+    "value": "Obadiah",
+    "synonyms": [
+      "Obad",
+      "Oba",
+      "Obadiah"
+    ]
+  },
+  {
+    "value": "Jonah",
+    "synonyms": [
+      "Jon",
+      "Jonah"
+    ]
+  },
+  {
+    "value": "Micah",
+    "synonyms": [
+      "Mic",
+      "Micah"
+    ]
+  },
+  {
+    "value": "Nahum",
+    "synonyms": [
+      "Nah",
+      "Nahum"
+    ]
+  },
+  {
+    "value": "Habakkuk",
+    "synonyms": [
+      "Hab",
+      "Habakkuk"
+    ]
+  },
+  {
+    "value": "Zephaniah",
+    "synonyms": [
+      "Zeph",
+      "Zephaniah"
+    ]
+  },
+  {
+    "value": "Haggai",
+    "synonyms": [
+      "Hag",
+      "Haggai"
+    ]
+  },
+  {
+    "value": "Zechariah",
+    "synonyms": [
+      "Zech",
+      "Zechariah"
+    ]
+  },
+  {
+    "value": "Malachi",
+    "synonyms": [
+      "Mal",
+      "Malachi"
+    ]
+  },
+  {
+    "value": "Matthew",
+    "synonyms": [
+      "Matt",
+      "Matthew",
+      "mat",
+      "Mat",
+      "MAT"
+    ]
+  },
+  {
+    "value": "Mark",
+    "synonyms": [
+      "Mark",
+      "mark",
+      "mrk",
+      "MRK"
+    ]
+  },
+  {
+    "value": "Luke",
+    "synonyms": [
+      "Luke",
+      "luk",
+      "LUKE",
+      "LUK",
+      "Luk"
+    ]
+  },
+  {
+    "value": "John",
+    "synonyms": [
+      "Jhn",
+      "Jn",
+      "John"
+    ]
+  },
+  {
+    "value": "Acts",
+    "synonyms": [
+      "Acts",
+      "ACT",
+      "act",
+      "acts"
+    ]
+  },
+  {
+    "value": "Romans",
+    "synonyms": [
+      "Rom",
+      "Romans",
+      "rom"
+    ]
+  },
+  {
+    "value": "1 Corinthians",
+    "synonyms": [
+      "1 Cor",
+      "1st Cor",
+      "1st Corinthians",
+      "1 Corinthians"
+    ]
+  },
+  {
+    "value": "2 Corinthians",
+    "synonyms": [
+      "2 Cor",
+      "2nd Cor",
+      "2nd Corinthians",
+      "2 Corinthians"
+    ]
+  },
+  {
+    "value": "Galatians",
+    "synonyms": [
+      "Gal",
+      "Galatians"
+    ]
+  },
+  {
+    "value": "Ephesians",
+    "synonyms": [
+      "Eph",
+      "Ephesians"
+    ]
+  },
+  {
+    "value": "Philippians",
+    "synonyms": [
+      "Phil",
+      "Philippians"
+    ]
+  },
+  {
+    "value": "Colossians",
+    "synonyms": [
+      "Col",
+      "Colossians"
+    ]
+  },
+  {
+    "value": "1 Thessalonians",
+    "synonyms": [
+      "1 Thess",
+      "1st Thess",
+      "1st Thessalonians",
+      "1 Thessalonians"
+    ]
+  },
+  {
+    "value": "2 Thessalonians",
+    "synonyms": [
+      "2 Thess",
+      "2nd Thess",
+      "2nd Thessalonians",
+      "2 Thessalonians"
+    ]
+  },
+  {
+    "value": "1 Timothy",
+    "synonyms": [
+      "1 Tim",
+      "1st Tim",
+      "1st Timothy",
+      "1 Timothy"
+    ]
+  },
+  {
+    "value": "2 Timothy",
+    "synonyms": [
+      "2 Tim",
+      "2nd Tim",
+      "2nd Timothy",
+      "2 Timothy"
+    ]
+  },
+  {
+    "value": "Titus",
+    "synonyms": [
+      "Titus"
+    ]
+  },
+  {
+    "value": "Philemon",
+    "synonyms": [
+      "Phlm",
+      "Philemon"
+    ]
+  },
+  {
+    "value": "Hebrews",
+    "synonyms": [
+      "Heb",
+      "Hebrews"
+    ]
+  },
+  {
+    "value": "James",
+    "synonyms": [
+      "Jas",
+      "James"
+    ]
+  },
+  {
+    "value": "1 Peter",
+    "synonyms": [
+      "1 Pet",
+      "1st Pet",
+      "1st Peter",
+      "1 Peter"
+    ]
+  },
+  {
+    "value": "2 Peter",
+    "synonyms": [
+      "2 Pet",
+      "2nd Pet",
+      "2nd Peter",
+      "2 Peter"
+    ]
+  },
+  {
+    "value": "1 John",
+    "synonyms": [
+      "1st John",
+      "1 John",
+      "1jn",
+      "1JN",
+      "1jhn",
+      "1JHN"
+    ]
+  },
+  {
+    "value": "2 John",
+    "synonyms": [
+      "2nd John",
+      "2 John",
+      "2jn",
+      "2JN",
+      "2JHN",
+      "2jhn"
+    ]
+  },
+  {
+    "value": "3 John",
+    "synonyms": [
+      "3rd John",
+      "3 John",
+      "3jn",
+      "3JHN",
+      "3JN",
+      "3jhn"
+    ]
+  },
+  {
+    "value": "Jude",
+    "synonyms": [
+      "Jude",
+      "jud",
+      "Jud",
+      "JUD",
+      "JUDE"
+    ]
+  },
+  {
+    "value": "Revelation",
+    "synonyms": [
+      "Rev",
+      "Revelation"
+    ]
+  }
+]
